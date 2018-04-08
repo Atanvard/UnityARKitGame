@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4920f45cbe2fe9149bd639ab749b3a6f
+timeCreated: 1491708859
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - portalCamera: {instanceID: 0}
+  - mask: {instanceID: 0}
+  - origin: {instanceID: 0}
+  - destination: {instanceID: 0}
+  - portalRoot: {instanceID: 0}
+  - headCollider: {instanceID: 0}
+  - targetPortal: {instanceID: 0}
+  - playerTeleportable: {instanceID: 0}
+  - physicsPassthrough: {instanceID: 0}
+  - placeholder: {instanceID: 0}
+  - bufferWallObj: {instanceID: 0}
+  executionOrder: 16000
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

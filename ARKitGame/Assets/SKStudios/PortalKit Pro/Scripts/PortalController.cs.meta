@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 225045de4af70894caf7cdc7c250d9e4
+timeCreated: 1491710917
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - targetInitializer: {instanceID: 0}
+  - portal: {fileID: 1232659475489786, guid: 2635c87c0e578c546b04225f3d5ca1a4, type: 2}
+  - mask: {fileID: 2800000, guid: 8c44f7fcd2ad9e54eb0e06c43c10f607, type: 3}
+  - playerTeleportable: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
